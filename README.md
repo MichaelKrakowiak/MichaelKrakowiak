@@ -4,7 +4,7 @@
 
 ## I'm Michael, aka Mika !
 
-I previously worked as a laboratory technician 🥼🧪(in production, industrial support, industrialization and research and development) in a large French company 🔵⚪🔴.
+I previously worked for 15 years as a laboratory technician 🥼🧪(in production, industrial support, industrialization and research and development) in a large French company 🔵⚪🔴.
 
 Since September 2023 I am starting a professional reconversion. 
 

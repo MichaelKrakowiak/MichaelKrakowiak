@@ -40,5 +40,5 @@ I'm currently training to become a Web Developer 💻 specialized in digital acc
 
  ### 💬 How to get in touch ?
  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krakowiak.michael@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto:krakowiak.michael@gmail.com>)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-krakowiak-73415b120/)

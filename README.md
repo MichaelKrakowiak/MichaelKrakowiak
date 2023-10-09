@@ -32,10 +32,10 @@ I'm currently training to become a Web Developer 💻 specialized in digital acc
 
 ### 📊 Mes stats
 
-  ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=michaelkrakowiak&show_icons=true&theme=aura_dark&hide=contribs,prs)
+  ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=MichaelKrakowiak&show_icons=true&theme=aura_dark&hide=contribs,prs)
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkrakowiak)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelKrakowiak)](https://github.com/MichaelKrakowiak/github-readme-stats)
 
 
  ### 💬 How to get in touch ?

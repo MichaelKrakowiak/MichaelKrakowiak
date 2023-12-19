@@ -2,6 +2,10 @@
 
 # Hi there 👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="350"/>
+</div>
+
 ## I'm Michael, aka Mika !
 
 I previously worked for 15 years as a laboratory technician 🥼🧪(in production, industrial support, industrialization and research and development) in a large French company 🔵⚪🔴.

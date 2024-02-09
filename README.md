@@ -34,7 +34,7 @@ I'm currently training to become a Web Developer 💻 specialized in digital acc
 ![airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-### 📊 Mes stats
+### 📊 My stats :
 
   ![Michael Krakowiak GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelKrakowiak&show_icons=true&theme=aura_dark&hide=contribs,prs)
 
